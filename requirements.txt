@@ -1,4 +1,4 @@
-matplotlib
-cohere
-pandas
-flask
+py-algorand-sdk
+docker
+docker-compose
+pytest
