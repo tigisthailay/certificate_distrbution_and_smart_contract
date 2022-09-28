@@ -1,4 +1,4 @@
-py-algorand-sdk
-docker
-docker-compose
-pytest
+matplotlib
+cohere
+pandas
+flask
