@@ -7,7 +7,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: iterative/setup-cml@v1
-      - name: Web3 dapp
+      - name: Train model
         run: |
           # Your ML workflow goes here
           pip install -r requirements.txt
