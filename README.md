@@ -9,8 +9,7 @@
 - [Contrbutors](#contrbutors)
 
 ## Introduction to Business Idea
-<!-- import an image -->
-![flow-diagram](./screenshots/flow_fin.png)
+
 
 10 Academy would like to solve the challenge of ensuring that certificates are available to all trainees in a secure way, and that certificate holders can benefit from smart contract actions now and in the future.  At present, certificates are distributed as simple PDF files, and without the ability to verify their neither authenticity nor can 10 Academy undertake smart actions with the trainees/their contracts. 
 
