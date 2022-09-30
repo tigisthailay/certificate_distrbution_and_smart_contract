@@ -6,7 +6,9 @@
 - [Requirements](#requirements)
 - [Usage](#usage)
   - [Docker-compose](#docker-compose)
-- [Contrbutors](#contrbutors)
+  - [Install-Sandbox](#Install-Sandbox)
+  - [Install-SDK](#Install-SDK)
+- [Contrbutor](#contrbutor)
 
 ## Introduction to Business Idea
 
@@ -28,7 +30,25 @@ pytest
 ### Docker-compose
 All of the project depebdecies are installed using docker-compose. The docker-compose file is located in the root directory.
 
-## Contrbutors
+## Install-Sandbox
+
+To install and use this instance, follow these instructions.​
+
+```bash
+git clone https://github.com/algorand/sandbox.git
+cd sandbox
+./sandbox up testnet
+```
+
+## Install-SDK
+
+To install the Python SDK, open a terminal and run the following command:​
+
+```
+pip3 install py-algorand-sdk
+```
+
+## Contrbutor
 - Tegisty Hailay
 
 
