@@ -7,8 +7,8 @@ const managerAddr = undefined;
 const reserveAddr = undefined;
 const freezeAddr = undefined;
 const clawbackAddr = undefined;
-const total = 1; // NFTs have totalIssuance of exactly 1
-const decimals = 0; // NFTs have decimals of exactly 0
+const total = 1; 
+const decimals = 0; 
 const txn = algosdk.makeAssetCreateTxnWithSuggestedParamsFromObject({
     from: creator,
     total,
