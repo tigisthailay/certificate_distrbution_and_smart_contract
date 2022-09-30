@@ -30,7 +30,7 @@ pytest
 ### Docker-compose
 All of the project depebdecies are installed using docker-compose. The docker-compose file is located in the root directory.
 
-## Install-Sandbox
+### Install-Sandbox
 
 To install and use this instance, follow these instructions.​
 
@@ -40,7 +40,7 @@ cd sandbox
 ./sandbox up testnet
 ```
 
-## Install-SDK
+### Install-SDK
 
 To install the Python SDK, open a terminal and run the following command:​
 
