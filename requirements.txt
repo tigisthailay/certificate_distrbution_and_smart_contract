@@ -2,3 +2,5 @@ py-algorand-sdk
 docker
 docker-compose
 pytest
+react
+sandbox
