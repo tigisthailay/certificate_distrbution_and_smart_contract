@@ -98,8 +98,8 @@ const Welcome = () => {
           <div className="h-[1px] w-full bg-gray-400 my-2" />
           {false ? (
             <Loader />
-          ) : (
-            <a href="https://www.canva.com/design/DAFEL6w5NI0/E4_6HLZKvf5GV-RNSTSXWw/view?utm_content=DAFEL6w5NI0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" rel="noreferrer">
+          ) : (         
+            <a href="https://www.canva.com/design/DAFNojfu7nA/XyPY3GGB0SvlQxzrqlHxPw/view?utm_content=DAFNojfu7nA&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" rel="noreferrer">
               <button
                 type="button"
                 onClick={handleSubmit}
