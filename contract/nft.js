@@ -2,6 +2,7 @@ const creator = alice.addr;
 const defaultFrozen = true;
 const unitName = "ALICEART";
 const assetName = "tenx";
+
 const url = "https://www.canva.com/design/DAFNojfu7nA/nAMb_G_JgZermdw06uYysw/edit?utm_content=DAFNojfu7nA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton";
 const managerAddr = undefined;
 const reserveAddr = undefined;

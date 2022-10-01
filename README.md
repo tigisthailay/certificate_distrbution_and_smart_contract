@@ -47,7 +47,7 @@ To install the Python SDK, open a terminal and run the following command:​
 ```
 pip3 install py-algorand-sdk
 ```
-
+### 
 ## Contrbutor
 - Tegisty Hailay
 

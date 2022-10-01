@@ -5,9 +5,6 @@ from algosdk import account, mnemonic
 from algosdk.v2client import algod
 import time
 
-# Create a new test account and ask to fund created account
-
-
 def create_account(fund=True):
     # Change algod_token and algod_address to connect to  client
     algod_token = "2f3203f21e738a1de6110eba6984f9d03e5a95d7a577b34616854064cf2c0e7b"

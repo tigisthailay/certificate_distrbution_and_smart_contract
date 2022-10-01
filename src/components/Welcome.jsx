@@ -26,18 +26,18 @@ const Welcome = () => {
       <div className="flex mf:flex-row flex-col items-start justify-between md:p-20 py-12 px-4">
         <div className="flex flex-1 justify-start items-start flex-col mf:mr-10">
           <h1 className="text-3xl sm:text-5xl text-white text-gradient py-1">
-            Algorand Blockchain  <br />
+            Algorand Blockchain for Tenx<br />
           </h1>
           <p className="text-left mt-5 text-white font-light md:w-9/12 w-11/12 text-base">
             Request for trainees certificate as an NFTs
           </p>
           <p className="text-left mt-5 text-white font-light md:w-9/12 w-11/12 text-base">
             <b>
-            - For the smart contract transaction to continue, you must pay a 0.001 gas fee.
+            - For the smart contrt, you must pay a 0.001 gas fee.
             <br/>
             - The transaction will be sent to the smart contract.
             <br/>
-            - It will redirect you to your certificate NFTs based on your treniee's address (public key).
+            - It will redirect you to your certificate NFTs.
             </b> 
           </p>
           <a href="https://wallet.myalgo.com/" target="_blank" rel="noreferrer">
@@ -98,8 +98,8 @@ const Welcome = () => {
           <div className="h-[1px] w-full bg-gray-400 my-2" />
           {false ? (
             <Loader />
-          ) : (         
-            <a href="https://www.canva.com/design/DAFNojfu7nA/XyPY3GGB0SvlQxzrqlHxPw/view?utm_content=DAFNojfu7nA&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" rel="noreferrer">
+          ) : (    
+            <a href="https://www.canva.com/design/DAFNojfu7nA/XyPY3GGB0SvlQxzrqlHxPw/view?utm_content=DAFNojfu7nA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" rel="noreferrer">
               <button
                 type="button"
                 onClick={handleSubmit}
