@@ -1,4 +1,7 @@
 # End-to-End Web3 dApp
+## Algorand 
+
+![](images/algorand.png)
 
 <!-- Table of contents -->
 - [Introduction](#Introduction)
@@ -47,7 +50,15 @@ To install the Python SDK, open a terminal and run the following command:​
 ```
 pip3 install py-algorand-sdk
 ```
-### 
+### To run the project
+
+```
+git cone https://github.com/tigisthailay/certificate_distrbution_and_smart_contract.git
+cd certificate_distrbution_and_smart_contract
+node server.js or npm start
+
+```
+
 ## Contrbutor
 - Tegisty Hailay
 
